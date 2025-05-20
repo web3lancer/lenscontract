@@ -13,5 +13,8 @@
   "devDependencies": {
     "@matterlabs/hardhat-zksync": "^1.6.0",
     "zksync-ethers": "^6.17.0"
+  },
+  "dependencies": {
+    "hardhat": "^2.24.0"
   }
 }
